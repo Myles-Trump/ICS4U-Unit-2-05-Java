@@ -7,9 +7,6 @@
 * @since   2020-12-11
 */
 
-import java.util.Arrays;
-import java.util.Scanner;
-
 final class MagicNumber {
     private MagicNumber() {
         // Prevent instantiation
